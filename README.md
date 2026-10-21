@@ -28,7 +28,7 @@
 
 - 📡 Desplegando y configurando servicios de red (DNS, DHCP, Active Directory, Web).
 - 🐧 Profundizando en la administración avanzada de sistemas **Linux** y **Windows Server**.
-- 🔒 Aprendiendo fundamentos de **Base de datos""
+- 🔒 Aprendiendo fundamentos de **Base de datos"" y aprendiendo a digitalizar empresas
 
 ---
 
